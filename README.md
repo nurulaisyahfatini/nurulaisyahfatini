@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Aisyah! 👋
 
 I am a beginner developer exploring programming and open-source through GitHub! 🚀
