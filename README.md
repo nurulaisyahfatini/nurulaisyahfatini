@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**nurulaisyahfatini/nurulaisyahfatini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Aisyah! 👋
 
-Here are some ideas to get you started:
+I am a beginner developer exploring programming and open-source through GitHub! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👧 About Me
+- 🔭 I’m currently learning: **Git, GitHub, and programming fundamentals**
+- 🌱 My goal: **Build and launch my first personal project this year**
+- 💬 Ask me about: **My learning journey as a beginner**
+- ⚡ Fun fact: **I love exploring new technology!**
+
+---
+
+## 🛠️ Tech Stack & Tools I'm Learning
+- HTML / CSS
+- Git & GitHub
+- Markdown
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** [My LinkedIn Profile]([https://linkedin.com](https://www.linkedin.com/in/aisyahfatini/))
+- **Email:** aisyahfatini.27@gmail.com
+
+---
+
+✨ *Thanks for visiting my GitHub profile!*
