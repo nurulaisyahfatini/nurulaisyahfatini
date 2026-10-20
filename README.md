@@ -20,7 +20,7 @@ I am a beginner developer exploring programming and open-source through GitHub! 
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [My LinkedIn Profile][https://www.linkedin.com/in/aisyahfatini/)]
+- **LinkedIn:** (https://www.linkedin.com/in/aisyahfatini/)
 - **Email:** aisyahfatini.27@gmail.com
 
 ---
