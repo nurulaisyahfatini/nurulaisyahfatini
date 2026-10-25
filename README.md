@@ -53,7 +53,7 @@
 
 <br><br>
 
-![Snake Animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-pink.svg)
+![Snake Animation](https://raw.githubusercontent.com/nurulaisyahfatini/nurulaisyahfatini/output/github-contribution-grid-snake-pink.svg)
 
 </div>
 
